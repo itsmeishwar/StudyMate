@@ -1,10 +1,10 @@
-# Firebase Configuration Guide
+Firebase Configuration Guide
 
 ## Important: Firebase Setup Required
 
 Before running the app, you need to configure Firebase for your project. Follow these steps:
 
-### 1. Create a Firebase Project
+1. Create a Firebase Project
 
 1. Go to [Firebase Console](https://console.firebase.google.com/)
 2. Click "Add project" or select an existing project
